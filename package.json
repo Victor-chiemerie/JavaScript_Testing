@@ -1,0 +1,23 @@
+{
+  "name": "javascript_testing",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "stringFunctions.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-chiemerie/JavaScript_Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-chiemerie/JavaScript_Testing/issues"
+  },
+  "homepage": "https://github.com/Victor-chiemerie/JavaScript_Testing#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
